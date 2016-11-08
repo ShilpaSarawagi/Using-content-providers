@@ -1,0 +1,7 @@
+#Tue Nov 08 15:00:06 EST 2016
+base.0=C\:\\Users\\ssarawagi\\Desktop\\Android\\ContentProviderTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08976b580e1d4f51541721c6dc7fd17c9d813a31
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ssarawagi\\Desktop\\Android\\ContentProviderTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c57e30485bbba324b497268fb97be8b4afb3022e\\classes.dex
+base.1=C\:\\Users\\ssarawagi\\Desktop\\Android\\ContentProviderTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c57e30485bbba324b497268fb97be8b4afb3022e
+file.0=C\:\\Users\\ssarawagi\\Desktop\\Android\\ContentProviderTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08976b580e1d4f51541721c6dc7fd17c9d813a31\\classes.dex

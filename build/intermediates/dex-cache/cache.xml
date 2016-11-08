@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ssarawagi\Desktop\Android\ContentProviderTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23000b4e48c178ce90f4574d4f359af44128c90d">
+        <dex dex="C:\Users\ssarawagi\Desktop\Android\ContentProviderTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08976b580e1d4f51541721c6dc7fd17c9d813a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ssarawagi\Desktop\Android\ContentProviderTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="30f4cadc588faa5d4ffba6de1ce4235e60d98e79">
+        <dex dex="C:\Users\ssarawagi\Desktop\Android\ContentProviderTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c57e30485bbba324b497268fb97be8b4afb3022e\classes.dex" />
+    </item>
+
+</items>
